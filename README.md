@@ -1,7 +1,7 @@
-Reference-style: 
-![alt text][logo]
 
+![alt text][logo]
 [logo]: http://deviceplus.ranjitmohanty.com/wp-content/uploads/2016/05/arduino-bike1-1.png "Logo Title Text 2"
+
 
 ## Overview :
 
@@ -25,6 +25,6 @@ Turns to red color incase of riding in forward direction.
 
 
 
-You can find all details about schematics and documentation down in the link below 
+###You can find all details about schematics and documentation down in the link below 
 
 http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
