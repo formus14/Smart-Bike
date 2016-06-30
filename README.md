@@ -18,8 +18,8 @@ Turns to red color incase of riding in forward direction.
 * Adafruit Neopixel stick ( or you can build one on your own using ws2812b LEDs ) 
 
 * Resistors ( e.g 330 ohm )
-*
+
 
 You can find all details about schematics and documentation down in the link below 
 
-[http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/] [PlDb]
+http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
