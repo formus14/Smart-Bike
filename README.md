@@ -22,9 +22,9 @@ Turns to red color incase of riding in forward direction.
 
 * Resistors ( e.g 330 ohm )
 
+##
 
 
-
-- Schematics and documentation are down in the link below 
+  Schematics and documentation are down in the link below 
 
   http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
