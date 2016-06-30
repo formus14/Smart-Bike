@@ -25,6 +25,6 @@ Turns to red color incase of riding in forward direction.
 
 
 
-###You can find all details about schematics and documentation down in the link below 
+- Schematics and documentation are down in the link below 
 
-http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
+  http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
