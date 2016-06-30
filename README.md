@@ -1,4 +1,7 @@
+Reference-style: 
+![alt text][logo]
 
+[logo]: http://deviceplus.ranjitmohanty.com/wp-content/uploads/2016/05/arduino-bike1-1.png "Logo Title Text 2"
 
 ## Overview :
 
